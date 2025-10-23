@@ -1,0 +1,13 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+This rule automates the guide creation workflow:
+
+When I ask to create a new guide:
+
+- first let's brainstorm possible guides ideas. I would like you to give me 5 possible ideas
+- when I pick an idea you can ask some followup questions 
+- then let's create a plan for the guide 
+- when everything is ok write the whole guide content 
